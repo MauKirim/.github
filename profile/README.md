@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MauKirim/.github/main/assets/maukirim-logo.svg" alt="MauKirim Logo" width="128" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MauKirim/.github/main/assets/maukirim-logo-dark-bg.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MauKirim/.github/main/assets/maukirim-logo-white-bg.png" />
+    <img src="https://raw.githubusercontent.com/MauKirim/.github/main/assets/maukirim-logo-white-bg.png" alt="MauKirim Logo" width="160" />
+  </picture>
   <h1>MauKirim</h1>
   <p><strong>Pengiriman WhatsApp hemat untuk bisnis.</strong></p>
 </div>
